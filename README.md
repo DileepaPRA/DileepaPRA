@@ -89,18 +89,20 @@ fields_of_interest:
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DileepaPRA&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=6c63ff&fire=ff6b6b&currStreakLabel=6c63ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
 </div>
 
+<!--
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DileepaPRA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10&hide=php" alt="Top Languages" />
 </div>
+-->
 
 <br/>
 
-<!-- GITHUB TROPHIES -->
+<!-- GITHUB TROPHIES (Currently hidden due to API issues)
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DileepaPRA&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
-
 <br/>
+-->
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
