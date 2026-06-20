@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Dileepa%20Prabhath&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=IT%20Undergraduate%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55&descColor=c9d1d9&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Dileepa%20Prabhath&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%40%20University%20of%20Moratuwa&descSize=18&descAlignY=58&descColor=c9d1d9&animation=fadeIn" width="100%" />
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%A4%96+AI+%2F+ML+%7C+Data+Science;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%A1+Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%8E%93+IT+Undergraduate;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Aspiring+Software+Engineer;%F0%9F%A4%96+AI+%2F+ML+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,6 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
@@ -27,13 +26,16 @@
 name: Dileepa Prabhath
 role: IT Undergraduate @ University of Moratuwa
 location: Sri Lanka 🇱🇰
+traits:
+  - 🧩 Problem Solver
+  - 🔭 Tech Enthusiast
+  - 📚 Passionate Learner
+currently_learning: "Everything that excites me 🚀"
 fields_of_interest:
+  - Full Stack Development
   - Cybersecurity
   - Artificial Intelligence & Machine Learning
   - Data Science
-  - Full Stack Development
-currently_learning: "Everything that excites me 🚀"
-fun_fact: "I believe every problem has an elegant solution waiting to be discovered"
 ```
 
 <br/>
@@ -110,29 +112,22 @@ fun_fact: "I believe every problem has an elegant solution waiting to be discove
 
 <br/>
 
-<!-- CONNECT -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/dileepa-prabhath-b22071305" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
-<a href="mailto:d.prabath115@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>&nbsp;
-<a href="https://github.com/DileepaPRA" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
 ### 💬 *"The only way to do great work is to love what you do."*
+
+</div>
 
 <br/>
 
-<!-- RANDOM DEV QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<div align="center">
+
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DileepaPRA/DileepaPRA/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DileepaPRA/DileepaPRA/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DileepaPRA/DileepaPRA/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
