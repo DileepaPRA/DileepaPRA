@@ -14,8 +14,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=DileepaPRA&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS)](https://github.com/DileepaPRA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dileepa-prabhath-b22071305)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.prabath115@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DileepaPRA)
-
 </div>
 
 <!-- ABOUT ME SECTION -->
@@ -30,7 +28,6 @@ traits:
   - 🧩 Problem Solver
   - 🔭 Tech Enthusiast
   - 📚 Passionate Learner
-currently_learning: "Everything that excites me 🚀"
 fields_of_interest:
   - Full Stack Development
   - Cybersecurity
@@ -124,9 +121,9 @@ fields_of_interest:
 ## 🐍 My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DileepaPRA/DileepaPRA/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DileepaPRA/DileepaPRA/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DileepaPRA/DileepaPRA/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
