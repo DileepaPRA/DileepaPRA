@@ -40,44 +40,42 @@ fields_of_interest:
 <!-- TECH STACK -->
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-
 ### 👨‍💻 Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,c,python,html,css,php&theme=dark&perline=7" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,c,python,html,css,php&theme=dark" />
+  </a>
+</p>
 
 ### 🧰 Frameworks & Libraries
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,react,tensorflow&theme=dark&perline=5" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,tensorflow,opencv&theme=dark" />
+  </a>
+</p>
 
 ### 🗄️ Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=5" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+  </a>
+</p>
 
-![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### ⚙️ Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,figma,blender&theme=dark" />
+  </a>
+</p>
 
-### ⚙️ Tools & Technologies
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,figma,blender,opencv&theme=dark&perline=8" />
-</a>
-
-### 🔐 Other Technologies
-<div>
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-</div>
+### 🔐 Other Technologies & Services
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
 
 <br/>
 
