@@ -167,6 +167,24 @@ fields_of_interest:
       <img src="https://cdn.simpleicons.org/render/46E3B7" width="42" height="42" alt="Render" />
       <br><sub><b>Render</b></sub>
     </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=figma" width="42" height="42" alt="Figma" />
+      <br><sub><b>Figma</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🤖 IoT & Embedded Systems
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="42" height="42" alt="Raspberry Pi" />
+      <br><sub><b>Raspberry Pi</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=arduino" width="42" height="42" alt="Arduino" />
+      <br><sub><b>Arduino</b></sub>
+    </td>
   </tr>
 </table>
 
