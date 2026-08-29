@@ -40,70 +40,165 @@ fields_of_interest:
 <!-- TECH STACK -->
 ## 🛠️ Tech Arsenal
 
-### 👨‍💻 Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+### 💻 Programming Languages
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=java" width="42" height="42" alt="Java" />
+      <br><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=js" width="42" height="42" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=ts" width="42" height="42" alt="TypeScript" />
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=c" width="42" height="42" alt="C" />
+      <br><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="42" height="42" alt="SQL" />
+      <br><sub><b>SQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Backend Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,express&theme=dark" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=spring" width="42" height="42" alt="Spring Boot" />
+      <br><sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=express" width="42" height="42" alt="Express.js" />
+      <br><sub><b>Express.js</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🎨 Frontend Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React.js" />
+      <br><sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42" alt="Next.js" />
+      <br><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" alt="Tailwind CSS" />
+      <br><sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=html" width="42" height="42" alt="HTML5" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS3" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🗄️ Databases & Storage
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" alt="MySQL" />
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="PostgreSQL" />
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB" />
+      <br><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=redis" width="42" height="42" alt="Redis" />
+      <br><sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="MS SQL Server" />
+      <br><sub><b>MS SQL Server</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🚀 DevOps & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,netlify&theme=dark" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/Aiven_Cloud-FF3554?style=for-the-badge&logo=aiven&logoColor=white" alt="Aiven Cloud" />
-  <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" />
+      <br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="42" height="42" alt="GitHub Actions" />
+      <br><sub><b>GitHub Actions</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=docker" width="42" height="42" alt="Docker" />
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman" />
+      <br><sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=netlify" width="42" height="42" alt="Netlify" />
+      <br><sub><b>Netlify</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/render/46E3B7" width="42" height="42" alt="Render" />
+      <br><sub><b>Render</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🧩 Other Technologies & APIs
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps API" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="42" height="42" alt="TensorFlow" />
+      <br><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow Lite" />
+      <br><sub><b>TensorFlow Lite</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=opencv" width="42" height="42" alt="OpenCV" />
+      <br><sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/stripe/635BFF" width="42" height="42" alt="Stripe" />
+      <br><sub><b>Stripe</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="42" height="42" alt="Google Maps" />
+      <br><sub><b>Google Maps API</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="42" height="42" alt="Google Colab" />
+      <br><sub><b>Google Colab</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
