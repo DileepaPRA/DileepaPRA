@@ -230,9 +230,11 @@ fields_of_interest:
 
 <br/>
 
+<!-- TOP LANGUAGES
 <div align="center">
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DileepaPRA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
+-->
 
 <!-- ACTIVITY GRAPH (Temporarily disabled due to Vercel upstream outage)
 <div align="center">
